@@ -11,7 +11,7 @@ body{
 
 nav{
     grid-area: nav;
-    background-color: magenta;
+    background-color: rgb(83, 85, 87);
 }
 
 nav #mobile{
@@ -32,14 +32,14 @@ nav #desktop{
 
 nav #desktop a{
     text-decoration: none;
-    color: limegreen;
+    color: rgb(2, 2, 5);
     font-size: 20pt;
     font-weight: 800;
 }
 
 header{
     grid-area: header;
-    background-image: url(img/bannerBatata.jpg);
+    background-image: url(img/img_944x629$2018_09_28_14_38_54_120617.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -53,7 +53,7 @@ header h1{
 
 section{
     grid-area: section;
-    background-color: limegreen;
+    background-color: rgb(59, 63, 59);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -62,14 +62,14 @@ section{
 }
 
 section p{
-    color: purple;
+    color: rgb(128, 15, 0);
     font-size: 18pt;
     font-family: 'Barriecito', cursive;
 }
 
 footer{
     grid-area: footer;
-    background-color: yellow;
+    background-color: rgb(88, 4, 4);
     display: flex;
     align-items: center;
     justify-content: center;
